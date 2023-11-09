@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\bin\Debug\Assignment-4-part2.exe.config
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\bin\Debug\Assignment-4-part2.exe
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\bin\Debug\Assignment-4-part2.pdb
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\obj\Debug\Assignment-4-part2.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\obj\Debug\Assignment-4-part2.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\obj\Debug\Assignment-4-part2.exe
+C:\Users\Home\Desktop\Mphasis\Assignment-4-part2\obj\Debug\Assignment-4-part2.pdb
